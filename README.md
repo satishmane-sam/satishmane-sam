@@ -24,7 +24,6 @@
 
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=satishmane-sam&theme=radical)
 </details>
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br/>
 ---
 
