@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-<a href="https://imgur.com/gallery/RS5u5d3"><img src="https://imgur.com/gallery/RS5u5d3" width="100%" height="auto"/></a>
+<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 - 🔭 I just love coding
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
