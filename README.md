@@ -25,9 +25,6 @@
 ![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=satishmane-sam&theme=radical)
 </details>
 <br/>
-
-<a href="https://github.com/satishmane-sam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishmane-sam&hide_border=true&layout=compact&theme=aura" />
 </a>
 </details>
 
