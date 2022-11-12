@@ -1,4 +1,12 @@
-### Hi there, I'm Satish Mane 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Satish Mane</h1>
+<h5 align="center">
+A 4th-year student pursuing Bachelors in Computer science studies with a specialization, from Mit Aurangabad. I am a Data Science enthusiast,a Photographer and I Love Linux.
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmane-sam&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p>
 
 ## I'm a Student, Developer, and Teacher!!
 
@@ -28,7 +36,11 @@
 </a>
 </details>
 
-[![Satish's github stats](https://github-readme-stats.vercel.app/api?username=satishmane-sam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<a align= "center" href="https://github.com/satishmane-sam">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=satishmane-sam&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=satishmane-sam&count_private=true&theme=radical&show_icons=true" />
 
 ### Languages and Tools:
 
@@ -62,4 +74,19 @@
 [cssplaylist]: 
 [reactplaylist]: 
 <br>
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
+
+
+
+
+
+
+
 
