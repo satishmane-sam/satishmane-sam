@@ -2,6 +2,8 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RS5u5d3"  ><a href="//imgur.com/a/RS5u5d3">sam</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 - 🔭 I just love coding
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
