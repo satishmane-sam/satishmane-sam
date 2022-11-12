@@ -75,3 +75,8 @@
 [jsplaylist]: 
 [cssplaylist]: 
 [reactplaylist]: 
+<br>
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=skyblue&color=skyblue)      ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=critical&color=lightgreen)   ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=silver)    ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)    <a href="http://harshsoni.me/Portfolio2022/">
+   <img align="center" src="https://img.shields.io/badge/Website-harshtech.me-informational?style=flat&logo=android&logoColor=skyblue&color=skyblue" />
+</a>
+
