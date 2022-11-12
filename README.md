@@ -78,7 +78,7 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 <hr>
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/satishmane-sam/satishmane-sam/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
