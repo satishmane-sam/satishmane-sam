@@ -13,8 +13,7 @@ A 4th-year student pursuing Bachelors in Computer science studies with a special
 - 🔭 I just love coding
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
