@@ -5,7 +5,7 @@
 <h5 align="center">
 A 4th-year student pursuing Bachelors in Computer science studies with a specialization, from Mit Aurangabad. I am a Data Science enthusiast,a Photographer and I Love Linux.
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmane-sam&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishmane-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Satishmane-sam" /> </p>
 <p>
 
 ## I'm a Student, Developer, and Teacher!!
