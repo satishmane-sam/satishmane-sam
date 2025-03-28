@@ -2,20 +2,20 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Satish Mane</h1>
-<h5 align="center">
-A 4th-year student pursuing Bachelors in Computer Science from MIT Aurangabad. I am a Data Science enthusiast, a Photographer, and I Love Linux.
-</h5>
-
+<h3 align="center">
+<b>Software Engineer | Linux Expert | Open Source Contributor</b>
+</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=satishmane-sam&label=Profile%20views&color=0e75b6&style=flat" alt="Satishmane-sam" /> </p>
 
----
 
-##  About Me
+## About Me
 
-- 🔭 I just love coding
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🛠 **Proficient in**: System programming, automation (Ansible, Bash, Python), containerization (Docker, Podman, OpenShift), and cloud technologies.
+- 💡 **Passionate about**: Developing scalable and efficient software, optimizing system performance, and solving complex technical challenges.
+- 🏗 **Building expertise in**: Cloud platforms like AWS, Azure, and scalable architectures.
+- 🕵️ **Always exploring**: New tools, Linux internals, debugging techniques, automation workflows, and container orchestration.
+- 💬 **Ask me about**: Linux troubleshooting, automation scripts, OpenShift deployment, and software development best practices.
+- 🏆 **2025 Goals**: Contribute more to Open Source, deepen my expertise in cloud-native technologies, and mentor budding engineers.
 
 ---
 
