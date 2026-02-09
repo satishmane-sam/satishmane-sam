@@ -15,7 +15,7 @@
 - 🏗 **Building expertise in**: Cloud platforms like AWS, Azure, and scalable architectures.
 - 🕵️ **Always exploring**: New tools, Linux internals, debugging techniques, automation workflows, and container orchestration.
 - 💬 **Ask me about**: Linux troubleshooting, automation scripts, OpenShift deployment, and software development best practices.
-- 🏆 **2025 Goals**: Contribute more to Open Source, deepen my expertise in cloud-native technologies, and mentor budding engineers.
+- 🏆 **2026 Goals**: Contribute more to Open Source, deepen my expertise in cloud-native technologies, and mentor budding engineers.
 
 ---
 
